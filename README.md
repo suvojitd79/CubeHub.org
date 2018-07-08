@@ -24,13 +24,11 @@ In a nutshell, solving a Rubik's cube without any help could be challenging that
 
 All the code associated with this project is distributed under the [MIT](https://opensource.org/licenses/MIT). Please read LICENSE for information on the code availability and distribution.
 
-### Author & Contributor List
-```
- Suvojit Das
-```
+
 ### Contributing
 
-If you want to contribute to this project and make it better, your help is very welcome.When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owner of this repository before making a change.
+
+If you want to contribute to this project and make it better, your help is very welcome.When contributing to this repository, please first discuss the change you wish to make via issue, pull request, email, or any other method with the owner of this repository before making a change.
 
 
 ### Requirements
