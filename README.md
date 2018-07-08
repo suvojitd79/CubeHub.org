@@ -31,6 +31,11 @@ All the code associated with this project is distributed under the [MIT](https:/
 If you want to contribute to this project and make it better, your help is very welcome.When contributing to this repository, please first discuss the change you wish to make via issue, pull request, email, or any other method with the owner of this repository before making a change.
 
 
+### Media files
+
+Due to some restrictions, I have not added media files to this repository. If someone needs them while working on this project, just let me know via email so that I could send those files.
+
+
 ### Requirements
 
 1. Enable auto scrolling in chat system
